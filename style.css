@@ -263,7 +263,7 @@ footer a:hover {
     box-shadow: 1px 1px 1px 1px var(--cyan1);
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 570px) {
 
     h1 {
         font-size: 3.3rem;
